@@ -1,1 +1,1 @@
-# GitHub Actions Lab 1
+# GitHub Actions KodeKloud Lab 1
